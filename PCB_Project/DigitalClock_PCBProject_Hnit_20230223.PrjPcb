@@ -82,6 +82,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OUTPUSIA
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for DigitalClock_PCBProject_Hnit_20230223\Design Rule Check - DigitalClock_PCBFile_Hnit_20230223.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
